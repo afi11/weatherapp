@@ -1,5 +1,5 @@
 # DEMO APP
-[https://vibrant-keller-60eb35.netlify.app]https://vibrant-keller-60eb35.netlify.app
+https://vibrant-keller-60eb35.netlify.app
 
 # Getting Started
 
